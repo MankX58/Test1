@@ -1,2 +1,2 @@
-Aaa
-vas a caer
+Aaa;
+vas, a, caer;
